@@ -13,7 +13,7 @@
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS or anything related to Front-end development.
-- 👨‍💻 Check out my portfolio at https://elgrgaway.github.io/Ahmed-Website/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://elgrgaway.github.io/personal-website/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
